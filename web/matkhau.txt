@@ -1,0 +1,11 @@
+--------TRUY CẬP ĐẾN TRANG ADMIN---------
+
+đường dẫn: localhost/web/admincp
+tài khoản: NV123
+mật khẩu: admin30@
+
+--------TRUY CẬP ĐẾN TRANG KHÁCH HÀNG------
+đường dẫn: localhost/web
+
+- ràng buộc số lượng mua hàng phải nhỏ hơn số lượng đặt hàng được xử lý bằng PHP: không thể chọn số lượng mua nhiều hơn số lượng kho.
+(Có thể thử tìm mua: Tai Nghe Bluetooth 11 có số lượng kho bằng 1, không thể cộng thêm số lượng mua).

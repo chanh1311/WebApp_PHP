@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ul.admincp_list {
+  background: #CCFF99;
+  list-style-type: none;
+  text-align: center;
+}
+ul.admincp_list li {
+  color: blue;
+  display: inline-block;
+  width: 250px;
+  height: 40px;
+  line-height: 40px;
+  margin-left: -5px;
+  font-size:18px;
+}
+
+h3.title_admin {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+.wrapper{
+	border:1px solid #000;
+	height: auto;
+	width: 90%;
+	margin:0 auto;
+}
+ul.admincp_list li a{
+	text-decoration: none;
+	color: blue;
+	display: block;
+	
+}
+body {
+  font-family: sans-serif;
+
+  background-color:#FFFFCC;
+}
+a:hover{
+  background: #AAAAAA;
+  color: #333;
+}
+ul.admincp_list li a:hover{
+	color:white;
+	background:#660000;
+}
+p{
+	font-weight: bold;
+	color: red;
+	font-size:20px;
+}
+#footer{
+	text-align:center;
+	color: #CC6633;
+	font-size:20px;
+	background-color:#CCFFFF;
+}
+.giua{
+	text-align:center;
+}
+
+#tk a{
+	background-color:#FFCCFF;
+	
+}
+#welcome{
+	text-align:center;
+	font-weight:boid;
+	color:black;
+}
